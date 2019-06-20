@@ -11,7 +11,7 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Jack Campbell
+  name: Campbell Team
   title:
   license_number:
   about_markdown: |
@@ -20,7 +20,7 @@ client:
     Jack commits to helping his clients leverage real estate to discover and achieve their best life...An abundance of wealth, health and lifestyle.
 
     In business Jack is presently ranked by Keller Williams Realty among the top 1% of over 190,000 agents worldwide and chairperson of the Luxury Division. As an appointee to the Agent Leadership Council, he directs operations for the #1 top producing real estate office in San Diego County. He is a mentor and trainer to new and mid-tier production agents.
-  brand: Campbell Team
+  brand: 
   brokerage: Keller Williams Realty
   market: San Diego
   address:
@@ -33,23 +33,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.northernsandiegohomesearch.com/homevalue/default
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.northernsandiegohomesearch.com/search?sortby=latest&acl_county=San+Diego%2C+CA&minbeds=0&minbaths=0&minprice=300000&haslat=1&haslong=1&page=1&type=grid&mlsstatus=Active&list_rent=0and
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your San Diego Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.northernsandiegohomesearch.com/homevalue/default
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a San Diego Home?"
     CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.northernsandiegohomesearch.com/search?sortby=latest&acl_county=San+Diego%2C+CA&minbeds=0&minbaths=0&minprice=300000&haslat=1&haslong=1&page=1&type=grid&mlsstatus=Active&list_rent=0and
 
 lender:
   show_section: false
