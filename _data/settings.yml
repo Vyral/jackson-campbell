@@ -35,7 +35,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.northernsandiegohomesearch.com/homevalue/default
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.northernsandiegohomesearch.com/search?sortby=latest&acl_county=San+Diego%2C+CA&minbeds=0&minbaths=0&minprice=300000&haslat=1&haslong=1&page=1&type=grid&mlsstatus=Active&list_rent=0and
+  second_CTA_URL: http://www.northernsandiegohomesearch.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -49,7 +49,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a San Diego Home?"
     CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.northernsandiegohomesearch.com/search?sortby=latest&acl_county=San+Diego%2C+CA&minbeds=0&minbaths=0&minprice=300000&haslat=1&haslong=1&page=1&type=grid&mlsstatus=Active&list_rent=0and
+    CTA_url2: http://www.northernsandiegohomesearch.com/
 
 lender:
   show_section: false
