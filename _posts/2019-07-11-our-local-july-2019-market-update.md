@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Local July 2019 Market Update
-date: 2019-07-11 18:15:20
+date: 2019-07-11 18:15:00
 tags:
   - Real Estate
   - Market Update
