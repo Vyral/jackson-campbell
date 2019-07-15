@@ -9,7 +9,7 @@ excerpt: >-
   I’m back with another quick update on our San Diego market, and today we’ll
   look at the year-over-year numbers at the national and local level.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/Our+Market+Update+for+July+2019.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/Our+Market+Update+for+July+2019+(1).mp4
 pullquote: >-
   The market is very mixed and beginning to balance out, and that’s widening
   opportunities for both buyers and sellers.
