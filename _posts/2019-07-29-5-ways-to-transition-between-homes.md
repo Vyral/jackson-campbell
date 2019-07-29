@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Transition Between Homes
-date:
+date: 2019-07-29 14:44:42
 tags:
 excerpt: 5 ways to successfully transition from one home to the next
 enclosure: >-
