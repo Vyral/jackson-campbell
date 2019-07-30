@@ -24,7 +24,7 @@ That’s been a common inquiry from my clients lately, so today I’d like to sh
 
 One traditional method for transitioning between homes is to market your home for sale until you have an interested buyer. Once you do, **make sure your contract stipulates that you’d like to stay in the home after escrow is closed.** This allows you to carry equity from your sale to the bank and bolsters your purchasing power when you’re making an offer on a new home.
 
-The second method is to **market your current home while also searching for and purchasing a new property all within a matter of days**—known as a concurrent close. This, of course, would mean you’d have to synchronize the purchase of your new home and the sale of your current home. Given that it will need to line up with your seller’s schedule, this isn’t always a workable possibility.&nbsp;
+The second method is to **market your current home while also searching for and purchasing a new property all within a matter of days**— also known as a concurrent close. This, of course, would mean you’d have to synchronize the purchase of your new home and the sale of your current home. Given that it will need to line up with your seller’s schedule, this isn’t always a workable possibility.&nbsp;
 
 {% include pullquote.html %}
 
