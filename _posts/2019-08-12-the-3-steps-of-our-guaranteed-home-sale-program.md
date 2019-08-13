@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Steps of Our Guaranteed Home Sale Program
-date: 2019-08-12 15:30:14
+date: 2019-08-12 15:30:00
 tags:
   - Home Seller Tips
 excerpt: Our guaranteed sale program works in three highly effective steps.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/campbell-youtube.jpg
-youtube_code: 8etjASrWj-Q
+youtube_code: X1BPWKdQ9BU
 ---
 
 {% include youtube.html %}
