@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Your Questions About Listings and Real Estate Commissions
-date: 2019-08-26 15:38:37
+date: 2019-08-26 15:38:00
 tags:
 excerpt: >-
   Today we’re answering some of your questions about listings and real estate
