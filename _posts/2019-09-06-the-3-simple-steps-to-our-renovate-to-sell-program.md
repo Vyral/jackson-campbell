@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Simple Steps to Our “Renovate to Sell” Program
-date:
+date: 2019-09-06 15:22:44
 tags:
 excerpt: >-
   s our “Renovate to Sell” program right for you? The only way to know is to
