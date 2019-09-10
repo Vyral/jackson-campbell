@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   Today we’re answering some of your questions about listings and real estate
   commissions.
-enclosure: Real estate commission FAQs answered
+enclosure:
 pullquote: >-
   Real estate commissions are broken into two parts: the buyer’s side and the
   listing side.
