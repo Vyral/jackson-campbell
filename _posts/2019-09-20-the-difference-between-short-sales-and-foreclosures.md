@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Short Sales and Foreclosures
-date:
+date: 2019-09-20 13:50:59
 tags:
 excerpt: >-
   Short sales and foreclosures are not one and the same, and today we’ll explain
