@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Difference Between Short Sales and Foreclosures
-date: 2019-09-20 13:50:59
+date: 2019-09-20 13:50:00
 tags:
 excerpt: >-
   Short sales and foreclosures are not one and the same, and today we’ll explain
   the difference between the two.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/The+Difference+Between+Short+Sales+and+Foreclosures+(1).mp4
 pullquote: Today’s lenders would much rather help you stay in your home.
 enclosure_type: video/mp4
 enclosure_time:
