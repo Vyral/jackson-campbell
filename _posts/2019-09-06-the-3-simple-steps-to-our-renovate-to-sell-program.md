@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Is our “Renovate to Sell” program right for you? The only way to know is to
   stay tuned!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/The+3+Simple+Steps+to+Our+Renovate+to+Sell+Program+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
