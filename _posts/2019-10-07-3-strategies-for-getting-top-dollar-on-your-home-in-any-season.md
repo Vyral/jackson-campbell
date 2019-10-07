@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Strategies for Getting Top Dollar on Your Home in Any Season
-date:
+date: 2019-10-07 15:10:38
 tags:
 excerpt: 'If you want to earn top dollar for your home, follow these three tips.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/campbell-youtube-4.jpg
 youtube_code: Tf9TyZEmnC8
 ---
 
-{% include youtube.html %}<center>If you want to earn top dollar for your home, follow these three tips.</center>&nbsp;
+{% include youtube.html %}
+
+<center>If you want to earn top dollar for your home, follow these three tips.</center>
+
+&nbsp;
 
 Profitable deals are possible at any point in the year for home sellers in our market, but it takes careful planning to achieve these kinds of results.&nbsp;
 
