@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/campbell-youtube-4.jpg
 youtube_code: Tf9TyZEmnC8
 ---
 
-{% include youtube.html %}If you want to earn top dollar for your home, follow these three tips.&nbsp;
+{% include youtube.html %}<center>If you want to earn top dollar for your home, follow these three tips.</center>&nbsp;
 
 Profitable deals are possible at any point in the year for home sellers in our market, but it takes careful planning to achieve these kinds of results.&nbsp;
 
