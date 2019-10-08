@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Strategies for Getting Top Dollar on Your Home in Any Season
-date: 2019-10-07 15:10:38
+date: 2019-10-07 15:10:00
 tags:
 excerpt: 'If you want to earn top dollar for your home, follow these three tips.'
 enclosure:
@@ -15,7 +15,7 @@ youtube_code: Tf9TyZEmnC8
 
 {% include youtube.html %}
 
-<center>If you want to earn top dollar for your home, follow these three tips.</center>
+<center><em>If you want to earn top dollar for your home, follow these three tips.</em></center>
 
 &nbsp;
 
