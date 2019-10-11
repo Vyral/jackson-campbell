@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/campbell-youtube-4.jpg
-youtube_code: Tf9TyZEmnC8
+youtube_code: G6UKRaZDvDY
 ---
 
 {% include youtube.html %}
