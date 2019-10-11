@@ -4,7 +4,8 @@ title: 3 Strategies for Getting Top Dollar on Your Home in Any Season
 date: 2019-10-07 15:10:00
 tags:
 excerpt: 'If you want to earn top dollar for your home, follow these three tips.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/3+Strategies+for+Getting+Top+Dollar+for+Your+Home.mp4
 pullquote: 'Every property has unique features and assets, so play yours up.'
 enclosure_type: video/mp4
 enclosure_time:
