@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/campbell-youtube-5.jpg
 youtube_code: UujMb5Jx8bY
 ---
 
-{% include youtube.html %}Today I’ll discuss how to evaluate an investment property, whether you want to renovate or flip it.
+{% include youtube.html %<center>Today I’ll discuss how to evaluate an investment property, whether you want to renovate or flip it.</center>
 
 &nbsp;
 
