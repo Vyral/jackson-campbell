@@ -45,4 +45,4 @@ Today I’ll be discussing how to evaluate a good investment property whether it
 
 5:20: Wrapping up
 
-If you have any questions please feel free to reach out to me via phone or email, I would be happy to help you.
+If you have any questions please feel free to reach out to me via phone or email. I would be happy to help you.
