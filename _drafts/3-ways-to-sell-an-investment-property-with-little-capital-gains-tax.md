@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/campbell-youtube-6.jpg
 youtube_code: ZxDJMXQ6vOI
 ---
 
-{% include youtube.html %} If you’re thinking about selling an investment property, you’ll want to avoid capital gains taxes. Here are three ways you can do that.
+{% include youtube.html %}<center>If you’re thinking about selling an investment property, you’ll want to avoid capital gains taxes. Here are three ways you can do that.</center>
 
 If you’re a real estate investor and you’re looking to sell a property while also minimizing your capital gains taxes, here are three different solutions that you can explore:
 
