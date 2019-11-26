@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Sell an Investment Property With Little Capital Gains Tax
-date:
+date: 2019-11-26 16:18:32
 tags:
 excerpt: >-
   If you’re thinking about selling an investment property, you’ll want to avoid
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/campbell-youtube-6.jpg
 youtube_code: ZxDJMXQ6vOI
 ---
 
-{% include youtube.html %}<center>If you’re thinking about selling an investment property, you’ll want to avoid capital gains taxes. Here are three ways you can do that.</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re thinking about selling an investment property, you&rsquo;ll want to avoid capital gains taxes. Here are three ways you can do that.</center>
+
+&nbsp;
 
 If you’re a real estate investor and you’re looking to sell a property while also minimizing your capital gains taxes, here are three different solutions that you can explore:
 
