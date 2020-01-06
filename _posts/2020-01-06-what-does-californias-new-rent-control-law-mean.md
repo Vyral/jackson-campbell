@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does California’s New Rent Control Law Mean?
-date:
+date: 2020-01-06 20:15:23
 tags:
 excerpt: >-
   If you own an investment property, here’s how California’s new rent control
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/campbell-youtube-1-2.jpg
 youtube_code: 6LU33pp1r0s
 ---
 
-{% include youtube.html %}<center>If you own an investment property, here’s how California’s new rent control law affects you.</center>
+{% include youtube.html %}
+
+<center>If you own an investment property, here&rsquo;s how California&rsquo;s new rent control law affects you.</center>
+
+&nbsp;
 
 If you own an investment property or are thinking of purchasing one in the future, how does California’s new rent control law affect you? To answer that question, there are a few key details about this law you need to keep in mind.&nbsp;
 
