@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does California’s New Rent Control Law Mean?
-date: 2020-01-06 20:15:23
+date: 2020-01-06 20:15:00
 tags:
 excerpt: >-
   If you own an investment property, here’s how California’s new rent control
