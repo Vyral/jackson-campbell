@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   If you own an investment property, here’s how California’s new rent control
   law affects you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/What+Does+Californias+New+Rent+Control+Law+Mean_.mp4
 pullquote: >-
   If a tenant’s lease term expires and they leave the property on their own
   accord, you still have the right to increase your rent.
