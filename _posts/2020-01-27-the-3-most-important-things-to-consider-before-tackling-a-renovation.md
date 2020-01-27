@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Most Important Things to Consider Before Tackling a Renovation
-date: 2020-01-27 15:03:31
+date: 2020-01-27 15:03:00
 tags:
 excerpt: >-
   Undertaking a renovation project is a big step, no matter if it’s for one room
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/campbell-youtube-2-1.jpg
 youtube_code: OyN7iKIEY9E
 ---
 
-{% include youtube.html %}<center>Undertaking a renovation project is a big step, no matter if it’s for one room or a whole home. Here’s my advice if you’re in a similar situation.</center>
+{% include youtube.html %}
+
+<center>Undertaking a renovation project is a big step, no matter if it&rsquo;s for one room or a whole home. Here&rsquo;s my advice if you&rsquo;re in a similar situation.</center>
+
+&nbsp;
 
 If you’re thinking about buying a home that needs some work, or making a renovation to your current home, here are three things that you need to consider:
 
