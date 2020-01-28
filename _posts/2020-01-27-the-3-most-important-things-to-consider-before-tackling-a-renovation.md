@@ -25,7 +25,7 @@ If you’re thinking about buying a home that needs some work, or making a renov
 
 **1\. Know your ability.** We aren’t all interior design specialists. If you don’t know how to pick a tile or what backsplash looks good in a kitchen, get some help. We work with designers who can advise you, and it’s not nearly as expensive as you might think.
 
-**2\. Be realistic about your project.** As you tackle one project, it will make the rest of the home look like a sore. Be realistic about the scope of your project, and don’t go too narrow or too wide.
+**2\. Be realistic about your project.** As you tackle one project, it may make the rest of the home look like an eyesore. Be realistic about the scope of your project, and don’t go too narrow or too wide.
 
 {% include pullquote.html %}
 
