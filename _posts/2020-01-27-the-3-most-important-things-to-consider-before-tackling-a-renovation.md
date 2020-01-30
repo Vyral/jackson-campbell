@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Undertaking a renovation project is a big step, no matter if it’s for one room
   or a whole home. Here’s my advice if you’re in a similar situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jackson+Campbell/The+3+Most+Important+Things+to+Consider+Before+Tackling+a+Renovation.mp4
 pullquote: 'Design consultants might have access to cheaper, better materials.'
 enclosure_type: video/mp4
 enclosure_time:
