@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/campbell-youtube-3-1.jpg
 youtube_code: 404-3w-cdgs
 ---
 
-{% include youtube.html %} If you’re looking to buy a home and fix it up, a renovation loan could help you out. Here’s how they work.
+{% include youtube.html %}<center>If you’re looking to buy a home and fix it up, a renovation loan could help you out. Here’s how they work.</center>
 
 If you’re thinking about buying a home that needs some work and you want to use the bank’s money to pay for it, we’re going to show you how to do that today.
 
