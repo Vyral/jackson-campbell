@@ -15,7 +15,13 @@ youtube_alternate_image: /uploads/campbell-youtube-3-1.jpg
 youtube_code: 404-3w-cdgs
 ---
 
-{% include youtube.html %}<center>If you’re looking to buy a home and fix it up, a renovation loan could help you out. Here’s how they work.</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re looking to buy a home and fix it up, a renovation loan could help you out. Here&rsquo;s how they work.</center>
+
+&nbsp;
+
+&nbsp;
 
 If you’re thinking about buying a home that needs some work and you want to use the bank’s money to pay for it, we’re going to show you how to do that today.
 
@@ -25,7 +31,7 @@ However, the process is the same for all of them. First, you find the property y
 
 {% include pullquote.html %}
 
-Once that happens, the bank will fund the loan to complete the purchase and set aside those funds into a “fund control”, an account that will be used for the renovation project itself. **During construction, you'll make regular draws against that account until the property is completed.**
+Once that happens, the bank will fund the loan to complete the purchase and set aside those funds into a “fund control,” an account that will be used for the renovation project itself. **During construction, you'll make regular draws against that account until the property is completed.**
 
 Regardless of which type of project you’re looking to accomplish, there are a lot of tools to help you get it done. We work with lenders who specialize in these kinds of products and would love to connect you.
 
