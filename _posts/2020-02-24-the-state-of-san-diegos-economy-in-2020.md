@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The State of San Diego's Economy in 2020
-date:
+date: 2020-02-24 16:01:18
 tags:
 excerpt: 'Today, let’s talk about the state of San Diego’s economy in 2020.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/campbell-youtube-4-1.jpg
 youtube_code: VSbtC1W30dE
 ---
 
-{% include youtube.html %}<center>Today, let’s talk about the state of San Diego’s economy in 2020.Today, let’s talk about the state of San Diego’s economy in 2020.</center>
+{% include youtube.html %}
+
+<center>Today, let&rsquo;s talk about the state of San Diego&rsquo;s economy in 2020.Today, let&rsquo;s talk about the state of San Diego&rsquo;s economy in 2020.</center>
+
+&nbsp;
 
 Now that we’re a few months into the new year, how has San Diego’s economy fared in 2020?
 
