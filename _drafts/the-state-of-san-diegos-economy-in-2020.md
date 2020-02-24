@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/campbell-youtube-4-1.jpg
 youtube_code: VSbtC1W30dE
 ---
 
-{% include youtube.html %}Today, let’s talk about the state of San Diego’s economy in 2020.Today, let’s talk about the state of San Diego’s economy in 2020.
+{% include youtube.html %}<center>Today, let’s talk about the state of San Diego’s economy in 2020.Today, let’s talk about the state of San Diego’s economy in 2020.</center>
 
 Now that we’re a few months into the new year, how has San Diego’s economy fared in 2020?
 
